@@ -1,0 +1,15 @@
+D:\GeekBrain\Языки програмирования c#\HomeWork\newTask2\bin\Debug\net8.0\newTask2.exe
+D:\GeekBrain\Языки програмирования c#\HomeWork\newTask2\bin\Debug\net8.0\newTask2.deps.json
+D:\GeekBrain\Языки програмирования c#\HomeWork\newTask2\bin\Debug\net8.0\newTask2.runtimeconfig.json
+D:\GeekBrain\Языки програмирования c#\HomeWork\newTask2\bin\Debug\net8.0\newTask2.dll
+D:\GeekBrain\Языки програмирования c#\HomeWork\newTask2\bin\Debug\net8.0\newTask2.pdb
+D:\GeekBrain\Языки програмирования c#\HomeWork\newTask2\obj\Debug\net8.0\newTask2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrain\Языки програмирования c#\HomeWork\newTask2\obj\Debug\net8.0\newTask2.AssemblyInfoInputs.cache
+D:\GeekBrain\Языки програмирования c#\HomeWork\newTask2\obj\Debug\net8.0\newTask2.AssemblyInfo.cs
+D:\GeekBrain\Языки програмирования c#\HomeWork\newTask2\obj\Debug\net8.0\newTask2.csproj.CoreCompileInputs.cache
+D:\GeekBrain\Языки програмирования c#\HomeWork\newTask2\obj\Debug\net8.0\newTask2.sourcelink.json
+D:\GeekBrain\Языки програмирования c#\HomeWork\newTask2\obj\Debug\net8.0\newTask2.dll
+D:\GeekBrain\Языки програмирования c#\HomeWork\newTask2\obj\Debug\net8.0\refint\newTask2.dll
+D:\GeekBrain\Языки програмирования c#\HomeWork\newTask2\obj\Debug\net8.0\newTask2.pdb
+D:\GeekBrain\Языки програмирования c#\HomeWork\newTask2\obj\Debug\net8.0\newTask2.genruntimeconfig.cache
+D:\GeekBrain\Языки програмирования c#\HomeWork\newTask2\obj\Debug\net8.0\ref\newTask2.dll
