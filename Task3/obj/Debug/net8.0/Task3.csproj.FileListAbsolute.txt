@@ -1,0 +1,15 @@
+D:\GeekBrain\Языки програмирования c#\HomeWork\Task3\bin\Debug\net8.0\Task3.exe
+D:\GeekBrain\Языки програмирования c#\HomeWork\Task3\bin\Debug\net8.0\Task3.deps.json
+D:\GeekBrain\Языки програмирования c#\HomeWork\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+D:\GeekBrain\Языки програмирования c#\HomeWork\Task3\bin\Debug\net8.0\Task3.dll
+D:\GeekBrain\Языки програмирования c#\HomeWork\Task3\bin\Debug\net8.0\Task3.pdb
+D:\GeekBrain\Языки програмирования c#\HomeWork\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrain\Языки програмирования c#\HomeWork\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+D:\GeekBrain\Языки програмирования c#\HomeWork\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+D:\GeekBrain\Языки програмирования c#\HomeWork\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+D:\GeekBrain\Языки програмирования c#\HomeWork\Task3\obj\Debug\net8.0\Task3.sourcelink.json
+D:\GeekBrain\Языки програмирования c#\HomeWork\Task3\obj\Debug\net8.0\Task3.dll
+D:\GeekBrain\Языки програмирования c#\HomeWork\Task3\obj\Debug\net8.0\refint\Task3.dll
+D:\GeekBrain\Языки програмирования c#\HomeWork\Task3\obj\Debug\net8.0\Task3.pdb
+D:\GeekBrain\Языки програмирования c#\HomeWork\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+D:\GeekBrain\Языки програмирования c#\HomeWork\Task3\obj\Debug\net8.0\ref\Task3.dll
