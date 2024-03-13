@@ -1,0 +1,15 @@
+D:\GeekBrain\Языки програмирования c#\HomeWork\Fre\bin\Debug\net8.0\Fre.exe
+D:\GeekBrain\Языки програмирования c#\HomeWork\Fre\bin\Debug\net8.0\Fre.deps.json
+D:\GeekBrain\Языки програмирования c#\HomeWork\Fre\bin\Debug\net8.0\Fre.runtimeconfig.json
+D:\GeekBrain\Языки програмирования c#\HomeWork\Fre\bin\Debug\net8.0\Fre.dll
+D:\GeekBrain\Языки програмирования c#\HomeWork\Fre\bin\Debug\net8.0\Fre.pdb
+D:\GeekBrain\Языки програмирования c#\HomeWork\Fre\obj\Debug\net8.0\Fre.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrain\Языки програмирования c#\HomeWork\Fre\obj\Debug\net8.0\Fre.AssemblyInfoInputs.cache
+D:\GeekBrain\Языки програмирования c#\HomeWork\Fre\obj\Debug\net8.0\Fre.AssemblyInfo.cs
+D:\GeekBrain\Языки програмирования c#\HomeWork\Fre\obj\Debug\net8.0\Fre.csproj.CoreCompileInputs.cache
+D:\GeekBrain\Языки програмирования c#\HomeWork\Fre\obj\Debug\net8.0\Fre.sourcelink.json
+D:\GeekBrain\Языки програмирования c#\HomeWork\Fre\obj\Debug\net8.0\Fre.dll
+D:\GeekBrain\Языки програмирования c#\HomeWork\Fre\obj\Debug\net8.0\refint\Fre.dll
+D:\GeekBrain\Языки програмирования c#\HomeWork\Fre\obj\Debug\net8.0\Fre.pdb
+D:\GeekBrain\Языки програмирования c#\HomeWork\Fre\obj\Debug\net8.0\Fre.genruntimeconfig.cache
+D:\GeekBrain\Языки програмирования c#\HomeWork\Fre\obj\Debug\net8.0\ref\Fre.dll
