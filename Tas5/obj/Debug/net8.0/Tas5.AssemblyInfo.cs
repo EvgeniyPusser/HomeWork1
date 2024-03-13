@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tas5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46c01c96b3fb226ecf680ca357872eda3b5dd192")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24f4929562f6cde741a12679c6b773eb1780b5a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tas5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tas5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

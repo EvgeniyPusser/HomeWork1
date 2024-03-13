@@ -21,8 +21,8 @@ int[,] EliminateRowAndcolumn(int[,] array, int x, int y){
     int[,] newArray = new int [array.GetLength(0) - 1, array.GetLength(1) - 1];
     for( int i = 0, k = 0; i < array.GetLength(0); i++){
         if( i == x)
-            
-            continue;
+                        
+            continue;   
         
         for( int j = 0, l = 0;j < array.GetLength(1); j++){
             if ( j == y)

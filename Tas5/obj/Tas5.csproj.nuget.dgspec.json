@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\GeekBrain\\Языки програмирования c#\\HomeWork\\Tas5\\Tas5.csproj": {}
+    "D:\\GeekBrain\\Языки програмирования c#\\HomeWork\\Tas5\\Tas5.csproj": {}
   },
   "projects": {
-    "d:\\GeekBrain\\Языки програмирования c#\\HomeWork\\Tas5\\Tas5.csproj": {
+    "D:\\GeekBrain\\Языки програмирования c#\\HomeWork\\Tas5\\Tas5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\GeekBrain\\Языки програмирования c#\\HomeWork\\Tas5\\Tas5.csproj",
+        "projectUniqueName": "D:\\GeekBrain\\Языки програмирования c#\\HomeWork\\Tas5\\Tas5.csproj",
         "projectName": "Tas5",
-        "projectPath": "d:\\GeekBrain\\Языки програмирования c#\\HomeWork\\Tas5\\Tas5.csproj",
+        "projectPath": "D:\\GeekBrain\\Языки програмирования c#\\HomeWork\\Tas5\\Tas5.csproj",
         "packagesPath": "C:\\Users\\asus1\\.nuget\\packages\\",
-        "outputPath": "d:\\GeekBrain\\Языки програмирования c#\\HomeWork\\Tas5\\obj\\",
+        "outputPath": "D:\\GeekBrain\\Языки програмирования c#\\HomeWork\\Tas5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asus1\\AppData\\Roaming\\NuGet\\NuGet.Config"
